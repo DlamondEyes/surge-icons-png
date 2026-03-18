@@ -1,64 +1,108 @@
 {
-  "name": "DiamondEyes PNG Icons",
+  "name": "DiamondEyes Full PNG Icons",
   "icons": [
     {
-      "name": "China",
-      "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/cn.png"
+      "name": "anthropic",
+      "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/anthropic.png"
     },
     {
-      "name": "Hong Kong",
-      "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/hk.png"
+      "name": "anthropic-2",
+      "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/anthropic-2.png"
     },
     {
-      "name": "Japan",
-      "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/jp.png"
+      "name": "ca",
+      "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/ca.png"
     },
     {
-      "name": "Korea",
-      "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/kr.png"
+      "name": "cl",
+      "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/cl.png"
     },
     {
-      "name": "Macau",
-      "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/mo.png"
-    },
-    {
-      "name": "Russia",
-      "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/ru.png"
-    },
-    {
-      "name": "Singapore",
-      "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/sg.png"
-    },
-    {
-      "name": "Taiwan",
-      "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/tw.png"
-    },
-    {
-      "name": "United States",
-      "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/us.png"
-    },
-    {
-      "name": "Germany",
-      "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/de.png"
-    },
-    {
-      "name": "Claude",
+      "name": "claude",
       "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/claude.png"
     },
     {
-      "name": "Grok",
+      "name": "cn",
+      "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/cn.png"
+    },
+    {
+      "name": "de",
+      "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/de.png"
+    },
+    {
+      "name": "facebook",
+      "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/facebook.png"
+    },
+    {
+      "name": "gb",
+      "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/gb.png"
+    },
+    {
+      "name": "grok",
       "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/grok.png"
     },
     {
-      "name": "Perplexity",
+      "name": "grok-2",
+      "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/grok-2.png"
+    },
+    {
+      "name": "hk",
+      "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/hk.png"
+    },
+    {
+      "name": "hm",
+      "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/hm.png"
+    },
+    {
+      "name": "jp",
+      "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/jp.png"
+    },
+    {
+      "name": "kr",
+      "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/kr.png"
+    },
+    {
+      "name": "mf",
+      "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/mf.png"
+    },
+    {
+      "name": "movie",
+      "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/movie.png"
+    },
+    {
+      "name": "perplexity",
       "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/perplexity.png"
     },
     {
-      "name": "YouTube",
+      "name": "ru",
+      "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/ru.png"
+    },
+    {
+      "name": "sg",
+      "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/sg.png"
+    },
+    {
+      "name": "tw",
+      "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/tw.png"
+    },
+    {
+      "name": "us",
+      "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/us.png"
+    },
+    {
+      "name": "xiaohongshu-2",
+      "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/xiaohongshu-2.png"
+    },
+    {
+      "name": "yandex",
+      "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/yandex.png"
+    },
+    {
+      "name": "youtube",
       "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/youtube.png"
     },
     {
-      "name": "YouTube Music",
+      "name": "youtube-music",
       "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/youtube-music.png"
     }
   ]
