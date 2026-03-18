@@ -1,0 +1,65 @@
+{
+  "name": "DiamondEyes PNG Icons",
+  "icons": [
+    {
+      "name": "China",
+      "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/cn.png"
+    },
+    {
+      "name": "Hong Kong",
+      "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/hk.png"
+    },
+    {
+      "name": "Japan",
+      "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/jp.png"
+    },
+    {
+      "name": "Korea",
+      "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/kr.png"
+    },
+    {
+      "name": "Macau",
+      "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/mo.png"
+    },
+    {
+      "name": "Russia",
+      "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/ru.png"
+    },
+    {
+      "name": "Singapore",
+      "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/sg.png"
+    },
+    {
+      "name": "Taiwan",
+      "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/tw.png"
+    },
+    {
+      "name": "United States",
+      "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/us.png"
+    },
+    {
+      "name": "Germany",
+      "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/de.png"
+    },
+    {
+      "name": "Claude",
+      "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/claude.png"
+    },
+    {
+      "name": "Grok",
+      "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/grok.png"
+    },
+    {
+      "name": "Perplexity",
+      "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/perplexity.png"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/youtube.png"
+    },
+    {
+      "name": "YouTube Music",
+      "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/youtube-music.png"
+    }
+  ]
+}
