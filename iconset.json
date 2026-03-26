@@ -1,6 +1,10 @@
 {
   "name": "DiamondEyes Full PNG Icons",
   "icons": [
+       {
+      "name": "grok-480",
+      "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/icons8-%E6%A0%BC%E7%BD%97%E5%85%8B-480.png"
+    }
     {
       "name": "anthropic",
       "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/anthropic.png"
