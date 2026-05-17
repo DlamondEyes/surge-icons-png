@@ -16,3 +16,11 @@ New icons:
 | github-light | https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/github-light.png |
 | google | https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/google.png |
 | instagram | https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/instagram.png |
+| tw | https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/tw.png |
+| hk | https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/hk.png |
+| jp | https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/jp.png |
+| mo | https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/mo.png |
+| kr | https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/kr.png |
+| sg | https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/sg.png |
+| tr | https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/tr.png |
+| rainbow-flag | https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/rainbow-flag.png |

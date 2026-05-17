@@ -98,6 +98,10 @@
       "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/mf.png"
     },
     {
+      "name": "mo",
+      "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/mo.png"
+    },
+    {
       "name": "movie",
       "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/movie.png"
     },
@@ -106,12 +110,20 @@
       "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/perplexity.png"
     },
     {
+      "name": "rainbow-flag",
+      "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/rainbow-flag.png"
+    },
+    {
       "name": "ru",
       "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/ru.png"
     },
     {
       "name": "sg",
       "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/sg.png"
+    },
+    {
+      "name": "tr",
+      "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/tr.png"
     },
     {
       "name": "tw",
