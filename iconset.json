@@ -2,6 +2,10 @@
   "name": "DiamondEyes Full PNG Icons",
   "icons": [
     {
+      "name": "adobe",
+      "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/adobe.png"
+    },
+    {
       "name": "anthropic",
       "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/anthropic.png"
     },
@@ -22,6 +26,10 @@
       "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/claude.png"
     },
     {
+      "name": "claude-ai",
+      "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/claude-ai.png"
+    },
+    {
       "name": "cn",
       "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/cn.png"
     },
@@ -36,6 +44,18 @@
     {
       "name": "gb",
       "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/gb.png"
+    },
+    {
+      "name": "gemini",
+      "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/gemini.png"
+    },
+    {
+      "name": "github-light",
+      "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/github-light.png"
+    },
+    {
+      "name": "google",
+      "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/google.png"
     },
     {
       "name": "grok",
@@ -60,6 +80,10 @@
     {
       "name": "hm",
       "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/hm.png"
+    },
+    {
+      "name": "instagram",
+      "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/instagram.png"
     },
     {
       "name": "jp",
