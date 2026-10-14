@@ -16,6 +16,7 @@ New icons:
 | github-light | https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/github-light.png |
 | google | https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/google.png |
 | instagram | https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/instagram.png |
+| openbot | https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/openbot.png |
 | tw | https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/tw.png |
 | hk | https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/hk.png |
 | jp | https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/jp.png |
