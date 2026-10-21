@@ -25,3 +25,4 @@ New icons:
 | sg | https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/sg.png |
 | tr | https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/tr.png |
 | rainbow-flag | https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/rainbow-flag.png |
+| hearthstone | https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/hearthstone.png |
