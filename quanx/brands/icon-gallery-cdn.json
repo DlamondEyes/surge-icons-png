@@ -1,0 +1,30 @@
+{
+  "name": "DiamondEyes · QuanX 图标库（CDN备用）",
+  "description": "Quantumult X 兼容版：108×108 透明 PNG。X、SpaceXAI、Grok、Yandex、Perplexity、小红书。",
+  "icons": [
+    {
+      "name": "X",
+      "url": "https://fastly.jsdelivr.net/gh/DlamondEyes/surge-icons-png@main/quanx/brands/qx108/X.png"
+    },
+    {
+      "name": "SpaceXAI",
+      "url": "https://fastly.jsdelivr.net/gh/DlamondEyes/surge-icons-png@main/quanx/brands/qx108/SpacexAi.png"
+    },
+    {
+      "name": "Grok",
+      "url": "https://fastly.jsdelivr.net/gh/DlamondEyes/surge-icons-png@main/quanx/brands/qx108/Grok.png"
+    },
+    {
+      "name": "Yandes (Yandex)",
+      "url": "https://fastly.jsdelivr.net/gh/DlamondEyes/surge-icons-png@main/quanx/brands/qx108/Yandes.png"
+    },
+    {
+      "name": "Perplexity",
+      "url": "https://fastly.jsdelivr.net/gh/DlamondEyes/surge-icons-png@main/quanx/brands/qx108/Perplexity.png"
+    },
+    {
+      "name": "小红书",
+      "url": "https://fastly.jsdelivr.net/gh/DlamondEyes/surge-icons-png@main/quanx/brands/qx108/Xiaohongshu.png"
+    }
+  ]
+}
