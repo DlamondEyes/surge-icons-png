@@ -1,0 +1,30 @@
+{
+  "name": "DiamondEyes · QuanX 品牌图标集",
+  "description": "包含 X、SpaceXAI、Grok、Yandex、Perplexity、小红书六款品牌图标。官方原文件来源仅 X 有明确记录；部分其他图标为第三方整理的品牌图形。",
+  "icons": [
+    {
+      "name": "X",
+      "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/quanx/brands/X.png"
+    },
+    {
+      "name": "SpaceXAI",
+      "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/quanx/brands/SpacexAi.png"
+    },
+    {
+      "name": "Grok",
+      "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/quanx/brands/Grok.png"
+    },
+    {
+      "name": "Yandes (Yandex)",
+      "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/quanx/brands/Yandes.png"
+    },
+    {
+      "name": "Perplexity",
+      "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/quanx/brands/Perplexity.png"
+    },
+    {
+      "name": "小红书",
+      "url": "https://raw.githubusercontent.com/DlamondEyes/surge-icons-png/main/quanx/brands/Xiaohongshu.png"
+    }
+  ]
+}
