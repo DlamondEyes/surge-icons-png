@@ -1,6 +1,6 @@
 {
   "name": "DiamondEyes · QuanX 图标库（CDN备用）",
-  "description": "Quantumult X 兼容版：108×108 透明 PNG。X、SpaceXAI、Grok、Yandex、Perplexity、小红书。",
+  "description": "7个图标：X、SpaceXAI（透明）、Google渐变G、Grok、Yandex、Perplexity（透明）、小红书。",
   "icons": [
     {
       "name": "X",
@@ -8,7 +8,11 @@
     },
     {
       "name": "SpaceXAI",
-      "url": "https://fastly.jsdelivr.net/gh/DlamondEyes/surge-icons-png@main/quanx/brands/qx108/SpacexAi.png"
+      "url": "https://fastly.jsdelivr.net/gh/DlamondEyes/surge-icons-png@main/quanx/brands/qx108/SpaceXAI-transparent-2026.png"
+    },
+    {
+      "name": "Google G · 官方渐变",
+      "url": "https://fastly.jsdelivr.net/gh/DlamondEyes/surge-icons-png@main/quanx/brands/qx108/Google-G-gradient-2025.png"
     },
     {
       "name": "Grok",
@@ -20,7 +24,7 @@
     },
     {
       "name": "Perplexity",
-      "url": "https://fastly.jsdelivr.net/gh/DlamondEyes/surge-icons-png@main/quanx/brands/qx108/Perplexity.png"
+      "url": "https://fastly.jsdelivr.net/gh/DlamondEyes/surge-icons-png@main/quanx/brands/qx108/Perplexity-transparent-teal.png"
     },
     {
       "name": "小红书",
